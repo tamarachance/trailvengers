@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningExperienceTheme xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultBrandingSet>LEXTHEMINGTrailvengers_HQ</defaultBrandingSet>
+    <description>This theme reflects the clients chosen branding requirments.</description>
+    <masterLabel>Trailvengers HQ</masterLabel>
+    <shouldOverrideLoadingImage>false</shouldOverrideLoadingImage>
+</LightningExperienceTheme>
